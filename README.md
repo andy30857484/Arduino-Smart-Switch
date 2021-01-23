@@ -28,12 +28,14 @@ https://accounts.adafruit.com/users/sign_up
 
 3.click on the dashboard you just create
 
-4.go to "feeds" => "view all" => "+New Feed" and create a new feed
+4.click on the gear icon and go to "Create New Block" => "Toggle" and create a new feed(the feed name should be the same with 'Realay1' in the arduino code aka main.ino!!!!)
 
 5.go to "key" and copy your IO_USERNAME & IO_KEY
 
 
 #get an IFTTT account
+
+
 
 #arduino IDE code
 1.download link
@@ -50,6 +52,16 @@ Adafruit_MQTT.h
 https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT.h
 Adafruit_MQTT_Client.h
 https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT_Client.h
+
+4.paste all the information downbellow
+Your Wifi SSID
+Your Wifi password
+IO_USERNAME
+IO_KEY
+
+5.burn the code into your arduino
+
+
 
 
 
