@@ -9,7 +9,7 @@ A smart-switch for 110V SPDT
 4.  0.5mm solid conductors
 
 
-#hardware links
+#hardware links 
 1.  
   https://www.amazon.com/dp/B081CSJV2V/ref=sr_1_1_sspa?dchild=1&keywords=nodemcu+esp8266&qid=1611385205&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVUo1VFg0UDBEVjMyJmVuY3J5cHRlZElkPUEwMzIwODI2MlZaTEVNRzJBUDBFNCZlbmNyeXB0ZWRBZElkPUEwNTYyNjkzMU5WTEI1SjdJUTlDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==  
 2.  
