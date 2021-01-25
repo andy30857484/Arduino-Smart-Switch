@@ -34,7 +34,7 @@
 ### link Adafruit and google assistant together
 #### click "create" => "If this" => "google assistant" => "Say a simple phrase" => "Connect" and connect your google account 
 
-### fill the block with your costuomize phrase (example:turn on bedroom light. bedroom light has been turn on)=> "Creat trigger"
+#### fill the block with your costuomize phrase (example:turn on bedroom light. bedroom light has been turn on)=> "Creat trigger"
 
 #### click "Then That" => "Adafruit" => "Send data to Adafruit IO" => "Connect" and connect your adafruit account => chose the feed you just create => type "1" into the "Data to save" block => "Creat action"
 
