@@ -10,3 +10,16 @@
 ### **3. 2.0mm solid conductors**     [Amazon link](https://www.amazon.com/-/zh_TW/dp/B07TX6BX47/ref=sr_1_2?dchild=1&keywords=wire&qid=1611385297&sr=8-2 )
 
 ### **4. 0.5mm solid conductors**     [Purchace link](https://cbcable.en.made-in-china.com/product/KFNJWiAUbQck/China-600V-Avss-0-5mm-PVC-Coated-Electrical-Wire-Cable.html )
+*******************************************************************************************************************************
+## Adafruit
+
+### 1.get an Adafruit account
+[Adafruit.com](https://accounts.adafruit.com/users/sign_up)
+
+### 2.go to "io" => "+New Dashboard" and create a new dashboard
+
+### 3.click on the dashboard you just create
+
+### 4.click on the gear icon and go to "Create New Block" => "Toggle" and create a new feed(the feed name should be the same with 'Realay1' in the arduino code aka main.ino!!!!)
+
+### 5.go to "key" and copy your IO_USERNAME & IO_KEY  
