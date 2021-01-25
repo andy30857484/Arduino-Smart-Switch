@@ -23,3 +23,28 @@
 ### 4.click on the gear icon and go to "Create New Block" => "Toggle" and create a new feed(the feed name should be the same with 'Realay1' in the arduino code aka main.ino!!!!)
 
 ### 5.go to "key" and copy your IO_USERNAME & IO_KEY  
+
+
+*******************************************************************************************************************************
+## get an IFTTT account
+
+*******************************************************************************************************************************
+## arduino IDE code
+
+### 1.download link
+[Download Arduino IDE](https://www.arduino.cc/en/software)
+
+### 2.setup usb port for arduino esp8266
+#### go to "tools" => "port" => "COM6"(plug in your arduino through a micro usb port and you will see the update for the ports)
+
+### 3.open main.ino and compile the code
+#### if its getting error,try to download these library downbellow
+[ESP8266WiFi.h](https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/ESP8266WiFi.h)
+[Adafruit_MQTT.h](https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT.h)
+[Adafruit_MQTT_Client.h](https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT_Client.h)
+
+### 4.paste all the information downbellow
+#### Your Wifi SSID
+#### Your Wifi password
+#### IO_USERNAME
+#### IO_KEY
