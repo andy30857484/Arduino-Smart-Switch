@@ -26,7 +26,19 @@
 
 
 *******************************************************************************************************************************
-## get an IFTTT account
+## IFTTT
+
+### get an IFTTT account
+[IFTTT.com](https://ifttt.com/join)
+
+### link Adafruit and google assistant together
+#### click "create" => "If this" => "google assistant" => "Say a simple phrase" => "Connect" and connect your google account 
+
+### fill the block with your costuomize phrase (example:turn on bedroom light. bedroom light has been turn on)=> "Creat trigger"
+
+#### click "Then That" => "Adafruit" => "Send data to Adafruit IO" => "Connect" and connect your adafruit account => chose the feed you just create => type "1" into the "Data to save" block => "Creat action"
+
+
 *******************************************************************************************************************************
 ## arduino IDE code
 
@@ -50,4 +62,6 @@
 #### IO_USERNAME
 #### IO_KEY
 
-### 5.burn the code into your arduino
+### 5.burn the code into your arduino and you are good to go!!!
+
+## thanks for trying my project!!!
