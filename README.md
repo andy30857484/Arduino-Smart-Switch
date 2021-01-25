@@ -37,14 +37,14 @@
 #### go to "tools" => "port" => "COM6"(plug in your arduino through a micro usb port and you will see the update for the ports)
 
 ### 3.open main.ino and compile the code
-#### if its getting error,try to download these library downbellow
+#### if its getting error,try to download these library down bellow
 [ESP8266WiFi.h](https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/ESP8266WiFi.h)
 
 [Adafruit_MQTT.h](https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT.h)
 
 [Adafruit_MQTT_Client.h](https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT_Client.h)
 
-### 4.paste all the information downbellow
+### 4.paste all the information down bellow
 #### Your Wifi SSID
 #### Your Wifi password
 #### IO_USERNAME
