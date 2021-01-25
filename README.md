@@ -38,6 +38,8 @@
 
 #### click "Then That" => "Adafruit" => "Send data to Adafruit IO" => "Connect" and connect your adafruit account => chose the feed you just create => type "1" into the "Data to save" block => "Creat action"
 
+## now you just create an action for turning on your light by google assistant
+## do this all over again to create another action for turning off your light
 
 *******************************************************************************************************************************
 ## arduino IDE code
