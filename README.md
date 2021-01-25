@@ -1,5 +1,5 @@
 # Smart-Switch
-## 110V SPDT controled by Google Asistant and Adafruit io   
+## 110V-250V SPDT controled by Google Asistant and Adafruit io   
 *******************************************************************************************************************************
 ## all you need:
 
