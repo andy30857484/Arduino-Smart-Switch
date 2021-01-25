@@ -49,3 +49,5 @@
 #### Your Wifi password
 #### IO_USERNAME
 #### IO_KEY
+
+### 5.burn the code into your arduino
